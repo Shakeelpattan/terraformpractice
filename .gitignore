@@ -1,0 +1,6 @@
+ansible-sudo-user-packer.json
+docker.service
+jenkibuildscript
+packer-vars.json
+packer.json
+ami.txtx
